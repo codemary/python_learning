@@ -1,3 +1,4 @@
+''' nytimes api usage example '''
 from requests import get
 
 
